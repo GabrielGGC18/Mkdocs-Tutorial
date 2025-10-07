@@ -14,3 +14,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+Pegar de referência o site do AGETEC Core - Acessando o github com o tutorial de passo a passo. 
+    -Referências de Código
+    -Cabeçalho
+    -Paleta de Cores
+    -Fontes
+    -Posicionamento na Página.
+
+Começar a construção da documentação a partir do dia 08/10
