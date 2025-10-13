@@ -23,8 +23,3 @@ Pegar de referência o site do AGETEC Core - Acessando o github com o tutorial d
     -Posicionamento na Página.
 
 Começar a construção da documentação a partir do dia 08/10
-
-markdown_extensions:
-- pymdownsx.tasklist
-- pymdownsx.mark
-- pymdown.

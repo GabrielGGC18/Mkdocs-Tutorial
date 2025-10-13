@@ -1,4 +1,15 @@
 site_name: Documentação do Site da Prefeitura
 
+markdown_extensions:
+  - smarty
+  - toc:
+      permalink: true
+      separator: "_"
+  - sane_lists
 
-  
+
++hooks:
+   - my_hooks.py
+
+plugins:
+  - search
