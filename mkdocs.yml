@@ -1,4 +1,13 @@
-site_name: Documentação do Site da Prefeitura
+site_name: Prefeitura de Palmas 
+
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    scheme: slate  # modo escuro
+    primary: indigo
+    accent: deep purple
+  
 
 markdown_extensions:
   - smarty

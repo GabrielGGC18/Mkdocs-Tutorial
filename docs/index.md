@@ -1,11 +1,7 @@
 # Gabriel Estágiário
-![Image](./image/Logo_prefeitura.png)
+
 ## Portal da Prefeitura
 >Este projeto é um sistema web desenvolvido com Django + AgtecCore, voltado para atender às demandas digitais de uma prefeitura municipal. Ele oferece uma estrutura escalável e segura para disponibilizar serviços públicos online, como emissão de documentos, acompanhamento de processos, notícias institucionais e integração com sistemas internos.
-
-
-![Image](./image/Nome_prefeitura.png)
-
 
 >Lembre-se de sempre consultar esta documentação durante o desenvolvimento e manutenção do portal.
 
