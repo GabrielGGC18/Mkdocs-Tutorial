@@ -2,12 +2,41 @@ site_name: Prefeitura de Palmas
 
 theme:
   name: material
-  logo: assets/logo.png
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
   palette:
-    scheme: slate  # modo escuro
+  - scheme: default 
+    toggle:
+      icon: material/weather-night
+      name: Modo escuro
+  - scheme: slate  # modo escuro
     primary: indigo
     accent: deep purple
-  
+    toggle:
+      icon: material/weather-sunny
+      name: Modo claro
+logo: assets/logo.png
+favicon: assets/favicon.png
+features:
+  - navigation.expand
+  - navigation.sections
+  - navigation.top
+  - search.suggest
+  - content.code.copy
+
+nav:
+  - Prefeitura de Palmas: index.md
+  - Aba dos Serviços:
+      - Órgãos: Abas-dos-Serviços/Órgãos.md
+      - Ouvidoria: Abas-dos-Serviços/Ouvidoria.md
+      - Diário Oficial: Abas-dos-Serviços/Diario-Oficial.md
+      - Transparência: Abas-dos-Serviços/Transparência.md
+      - Serviços: Abas-dos-Serviços/Serviços.md
+      - Notícias: Abas-dos-Serviços/Notícias.md
+  - Guia da Documentação: guia.md
+  - Django Rest Framework: django.md
+  - Flake8: flake8.md
+  - managers: managers.md
 
 markdown_extensions:
   - smarty
@@ -22,3 +51,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - glightbox
