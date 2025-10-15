@@ -1,6 +1,6 @@
 ## Órgãos
 
-![Clique aqui](assets/Cliqueorgaos.png)
+![orgaogeral](docs/assets/orgao_gereal.png)
 
 A administração pública municipal é composta por diversos órgãos que atuam de forma integrada para garantir o funcionamento eficiente dos serviços oferecidos à população. Cada órgão possui atribuições específicas, alinhadas às políticas públicas e às necessidades da cidade.
 

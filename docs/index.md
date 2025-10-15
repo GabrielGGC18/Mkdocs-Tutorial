@@ -1,8 +1,10 @@
 # Prefeitura de Palmas
 ## Bem-vindo à documentação do Portal da Prefeitura
 Este guia foi desenvolvido para orientar servidores, colaboradores e cidadãos no uso correto e eficiente dos serviços digitais oferecidos pelo Portal da Prefeitura de Palmas, Tocantins.
+![Paginainicia](assets/pagina_inicial.png)
 
 Aqui você encontrará instruções passo a passo para acessar funcionalidades, preencher formulários, consultar informações públicas, utilizar sistemas internos e compreender os fluxos administrativos disponíveis na plataforma.
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GW6nAJ1NHUQ&t=4786s" frameborder="0" allowfullscreen></iframe>
 
 A documentação está dividida por temas e áreas de atuação, facilitando a navegação e o entendimento de cada recurso. O objetivo é garantir autonomia, transparência e agilidade no uso dos serviços públicos digitais.
 <!-- Aqui se coloca a Aba para acessar os serviços da Documentação-->
@@ -17,6 +19,7 @@ O projeto segue a estrutura padrão gerada pelo AgtecCore, com as seguintes cara
 
 ## Serviços
 O Portal da Prefeitura de Palmas oferece uma área dedicada à consulta e utilização de serviços públicos digitais. A interface foi projetada para facilitar o acesso, permitindo que o usuário encontre rapidamente o que precisa por meio de filtros e categorias específicas.
+>![Paginaservicos](assets/servicos.png) 
 
 Como utilizar
 Na seção Serviços, você encontrará:
@@ -24,6 +27,7 @@ Na seção Serviços, você encontrará:
 Barra de pesquisa: digite palavras-chave como “IPTU”, “certidão”, “alvará” ou “atendimento” para localizar o serviço desejado.
 
 Categorias de acesso rápido:
+>![acessorapido](assets/Acesso_rapido.png) 
 
 Todos: exibe a lista completa de serviços disponíveis no portal.
 
@@ -120,3 +124,11 @@ A consulta ao Diário Oficial é livre e pode ser feita por qualquer cidadão, g
 Este projeto é um sistema web desenvolvido com Django + AgtecCore, voltado para atender às demandas digitais de uma prefeitura municipal. Ele oferece uma estrutura escalável e segura para disponibilizar serviços públicos online, como emissão de documentos, acompanhamento de processos, notícias institucionais e integração com sistemas internos.
 
 Lembre-se de sempre consultar esta documentação para a utilização da ferramenta do Portal.
+
+
+
+=== "Linux"
+    Instruções para Linux aqui.
+
+=== "Windows"
+    Instruções para Windows aqui.

@@ -3,6 +3,8 @@ A transparência é um dos pilares fundamentais da gestão pública moderna. No 
 
 Nosso compromisso com a transparência envolve:
 
+![Paginanav](assets/Nav.png) 
+
 Acesso à informação: disponibilizamos dados relevantes sobre processos, contratos, despesas, indicadores e resultados por meio de plataformas abertas e atualizadas.
 
 Prestação de contas: mantemos registros públicos sobre metas, cronogramas, entregas e relatórios de desempenho, permitindo o acompanhamento por cidadãos, órgãos de controle e parceiros institucionais.
