@@ -44,6 +44,9 @@ markdown_extensions:
       permalink: true
       separator: "_"
   - sane_lists
+  - admonition
+  - pymdownx.tabbed
+  - pymdownx.superfences
 
 
 +hooks:
